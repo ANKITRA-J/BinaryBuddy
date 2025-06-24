@@ -22,29 +22,6 @@ A MonkeyType-inspired web application for practicing binary number conversions w
 - **Routing**: Wouter
 - **Icons**: Lucide React
 
-## Local Development
-
-1. Clone the repository
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
-3. Start the development server:
-   ```bash
-   npm run dev
-   ```
-4. Open http://localhost:5000
-
-## Deployment
-
-### Vercel Deployment
-
-1. Push your code to GitHub
-2. Connect your GitHub repository to Vercel
-3. Configure build settings:
-   - **Build Command**: `npm run build`
-   - **Output Directory**: `dist/public`
-   - **Install Command**: `npm install`
 
 ### Manual Build
 
